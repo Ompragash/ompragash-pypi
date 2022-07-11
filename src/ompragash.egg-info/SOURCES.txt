@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/ompragash/__init__.py
+src/ompragash/ompragash.py
+src/ompragash.egg-info/PKG-INFO
+src/ompragash.egg-info/SOURCES.txt
+src/ompragash.egg-info/dependency_links.txt
+src/ompragash.egg-info/top_level.txt
